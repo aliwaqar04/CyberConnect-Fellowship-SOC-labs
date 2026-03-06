@@ -1,18 +1,29 @@
 # CyberConnect Fellowship SOC Labs
 
-This repository contains my notes and lab walkthroughs from the SOC track that I am currently completing as part of the CyberConnect Fellowship.
+This repository contains my notes, screenshots, and lab walkthroughs from the SOC (Security Operations Center) track that I am currently completing as part of the CyberConnect Fellowship.
 
-The labs focus on networking fundamentals and traffic analysis which are important for understanding how security monitoring works in a Security Operations Center.
+The labs focus on networking fundamentals, packet capture, and traffic analysis which are essential skills for understanding how monitoring and detection work inside a SOC environment.
+
+---
 
 ## TryHackMe Profile
 
-My TryHackMe profile can be viewed here
+My TryHackMe profile:
 
 https://tryhackme.com/p/aliwaqarzafar04
+
+---
 
 ## Completed Labs
 
 1. Introductory Networking  
-2. Network Traffic Basics  
+2. Network Traffic Basics (Wireshark Analysis)
 
-More labs and notes will be added as I progress through the track.
+### Wireshark Task 2
+In this lab I analyzed network packets using Wireshark and learned how to:
+- Capture network traffic
+- Inspect packet details
+- Identify protocols such as DNS, HTTP, and TCP
+- Understand how communication happens across networks
+
+More labs and notes will be added as I progress through the SOC track.
